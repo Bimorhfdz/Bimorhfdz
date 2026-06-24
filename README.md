@@ -54,11 +54,6 @@ Here are some of my top projects demonstrating end-to-end data pipelines:
 
 ### 📫 Let's Connect!
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/bimo-rahman-hafidz-98b981252/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:bimo.hafidz@mhs.unsoed.ac.id">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+[![Bimorhfdz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bimorhfdz&show_icons=true&theme=radium&hide_border=true)](https://github.com/Bimorhfdz)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bimorhfdz&layout=compact&theme=radium&hide_border=true)](https://github.com/Bimorhfdz)
