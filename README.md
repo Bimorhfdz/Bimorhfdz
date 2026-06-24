@@ -45,10 +45,11 @@ Here are some of my top projects demonstrating end-to-end data pipelines:
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bimorhfdz&show_icons=true&theme=radium&hide_border=true" alt="Bimorhfdz's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bimorhfdz&layout=compact&theme=radium&hide_border=true" alt="Top Languages" width="48%" />
-</p>
+<!-- Sembunyikan sementara karena server down
+[![Bimorhfdz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bimorhfdz&show_icons=true&theme=radium&hide_border=true)](https://github.com/Bimorhfdz)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bimorhfdz&layout=compact&theme=radium&hide_border=true)](https://github.com/Bimorhfdz)
+-->
 
 ---
 
